@@ -1,0 +1,3 @@
+from StimulationSystem.StimulationUICreator.SchemaStimulationFramesFactory import SchemaStimulationFramesFactory
+
+factory_SchemaStimulationFramesFactory = SchemaStimulationFramesFactory()
