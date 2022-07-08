@@ -1,0 +1,3 @@
+from StimulationProcess.StimulationController import StimulationController
+
+controller_StimulationController = StimulationController()
